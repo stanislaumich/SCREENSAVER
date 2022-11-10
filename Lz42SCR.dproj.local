@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022.11.10 14:52:46.733,=S:\_programming\Unit1.pas</Transaction>
+    <Transaction>2022.11.10 14:53:14.538,S:\_programming\_SCREENSAVER\UMain.pas=S:\_programming\Unit1.pas</Transaction>
+    <Transaction>2022.11.10 14:53:14.538,S:\_programming\_SCREENSAVER\UMain.dfm=S:\_programming\Unit1.dfm</Transaction>
+    <Transaction>2022.11.10 14:53:23.824,S:\_programming\_SCREENSAVER\Lz42SCR.dproj=S:\_programming\Project1.dproj</Transaction>
+    <Transaction>2022.11.10 14:55:38.905,=S:\_programming\_SCREENSAVER\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
